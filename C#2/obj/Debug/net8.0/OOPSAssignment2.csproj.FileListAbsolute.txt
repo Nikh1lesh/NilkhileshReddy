@@ -1,0 +1,14 @@
+C:\Users\Nikki\source\repos\OOPSAssignment2\bin\Debug\net8.0\OOPSAssignment2.exe
+C:\Users\Nikki\source\repos\OOPSAssignment2\bin\Debug\net8.0\OOPSAssignment2.deps.json
+C:\Users\Nikki\source\repos\OOPSAssignment2\bin\Debug\net8.0\OOPSAssignment2.runtimeconfig.json
+C:\Users\Nikki\source\repos\OOPSAssignment2\bin\Debug\net8.0\OOPSAssignment2.dll
+C:\Users\Nikki\source\repos\OOPSAssignment2\bin\Debug\net8.0\OOPSAssignment2.pdb
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.AssemblyInfoInputs.cache
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.AssemblyInfo.cs
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.dll
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\refint\OOPSAssignment2.dll
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.pdb
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\OOPSAssignment2.genruntimeconfig.cache
+C:\Users\Nikki\source\repos\OOPSAssignment2\obj\Debug\net8.0\ref\OOPSAssignment2.dll
