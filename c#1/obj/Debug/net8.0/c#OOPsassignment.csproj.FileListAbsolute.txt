@@ -1,0 +1,14 @@
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\c#OOPsassignment.exe
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\c#OOPsassignment.deps.json
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\c#OOPsassignment.runtimeconfig.json
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\c#OOPsassignment.dll
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\c#OOPsassignment.pdb
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.AssemblyInfoInputs.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.AssemblyInfo.cs
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.dll
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\refint\c#OOPsassignment.dll
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.pdb
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\c#OOPsassignment.genruntimeconfig.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\ref\c#OOPsassignment.dll

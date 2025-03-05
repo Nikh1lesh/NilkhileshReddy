@@ -1,0 +1,14 @@
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\StudentValidation.exe
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\StudentValidation.deps.json
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\StudentValidation.runtimeconfig.json
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\StudentValidation.dll
+C:\Users\Nikki\source\repos\StudentValidation\bin\Debug\net8.0\StudentValidation.pdb
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.AssemblyInfoInputs.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.AssemblyInfo.cs
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.dll
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\refint\StudentValidation.dll
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.pdb
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\StudentValidation.genruntimeconfig.cache
+C:\Users\Nikki\source\repos\StudentValidation\obj\Debug\net8.0\ref\StudentValidation.dll
